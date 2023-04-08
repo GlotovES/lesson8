@@ -4,3 +4,7 @@ def mane_function(number):
     if number != 0:
       rev_func(number)
   
+def test_function():
+  print('hi')
+  
+  
