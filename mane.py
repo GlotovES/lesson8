@@ -4,11 +4,7 @@ def mane_function(number):
     if number != 0:
       rev_func(number)
   
-def test_function():
-  from random import *
-  x = randint(0,100)
-  if x>50:
-    print('x > 50')
-  print('x =< 50')
-  
- 
+
+number = int(input('Enter natural number: '))
+rev_func(number)
+
