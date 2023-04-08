@@ -5,3 +5,7 @@ def mane_function():
 		print('x > 50')
 	elif x < 50:
 		print('x < 50')
+
+
+def test_function():
+	pass
