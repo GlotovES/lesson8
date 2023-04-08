@@ -5,6 +5,7 @@ def mane_function(number):
       rev_func(number)
   
 def test_function():
-  print('hi')
+  from random import *
+  x = randint(0,100)
   
   
