@@ -7,5 +7,7 @@ def mane_function(number):
 def test_function():
   from random import *
   x = randint(0,100)
+  if x>50:
+    print('x > 50')
   
   
