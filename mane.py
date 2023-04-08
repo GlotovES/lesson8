@@ -4,3 +4,5 @@ def mane_function(number):
     if number != 0:
       rev_func(number)
   
+number = int(input('Enter natural number: '))
+rev_func(number)
