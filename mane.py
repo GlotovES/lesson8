@@ -8,4 +8,5 @@ def mane_function():
 
 
 def test_function():
-	pass
+	print("hello world")
+	
