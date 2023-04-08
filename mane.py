@@ -9,5 +9,6 @@ def test_function():
   x = randint(0,100)
   if x>50:
     print('x > 50')
+  print('x =< 50')
   
   
