@@ -7,3 +7,5 @@ def mane_function():
 		print('x < 50')
 	else:
 		print('x = 50')
+def test_function():
+	print("hello world")
